@@ -1,0 +1,2 @@
+# super-librarian
+The Libraries maintain a repository containing open access articles representing TAMU research. Using AI-related text mining akin to sentiment analysis, we would like to add a metadata facet for this collection that describes the research activity as either basic or applied research. We feel confident that, checking for the presence of two discrete sets of verbal phrases, we can classify the research type by expressions like “understand the phenomenon of” for basic and “apply this method” for applied research.
